@@ -1,6 +1,6 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Сергей Кулешов](https://up.htmlacademy.ru/htmlcss/17/user/424245).
+* Студент: [Сергей Кулешов](https://up.htmlacademy.ru/htmlcss/17/user/424245)
 * Наставник: [Наталья Лоскутова](https://up.htmlacademy.ru/htmlcss/17/user/33515)
 
 
